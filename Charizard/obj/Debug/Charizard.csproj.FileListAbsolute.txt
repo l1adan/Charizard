@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Charizard\Charizard\bin\Debug\Charizard.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Charizard\Charizard\bin\Debug\Charizard.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Charizard\Charizard\bin\Debug\Charizard.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Charizard\Charizard\obj\Debug\Charizard.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Charizard\Charizard\obj\Debug\Charizard.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Charizard\Charizard\obj\Debug\Charizard.pdb
